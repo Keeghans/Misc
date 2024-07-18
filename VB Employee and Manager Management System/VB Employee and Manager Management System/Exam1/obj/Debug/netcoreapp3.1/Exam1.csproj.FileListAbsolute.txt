@@ -1,0 +1,17 @@
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.exe
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.deps.json
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.json
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.dev.json
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\kaj168\source\repos\Exam1\Exam1\bin\Debug\netcoreapp3.1\Exam1.pdb
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.AssemblyReference.cache
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.Form1.resources
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.New_Manager.resources
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.GenerateResource.cache
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfoInputs.cache
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfo.cs
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.dll
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb
+C:\Users\kaj168\source\repos\Exam1\Exam1\obj\Debug\netcoreapp3.1\Exam1.genruntimeconfig.cache
