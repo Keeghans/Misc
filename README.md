@@ -1,2 +1,2 @@
 # Misc
-This is a collection of random code and programs that ive created in the past.
+Collection of various Visual basic programs ive created.

@@ -1,0 +1,10 @@
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\bin\Debug\Exam2KeeghanJohnson.exe.config
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\bin\Debug\Exam2KeeghanJohnson.exe
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\bin\Debug\Exam2KeeghanJohnson.pdb
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.csprojAssemblyReference.cache
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.Form1.resources
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.Properties.Resources.resources
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.csproj.GenerateResource.cache
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.csproj.CoreCompileInputs.cache
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.exe
+C:\Users\keegh\source\repos\Exam2KeeghanJohnson\Exam2KeeghanJohnson\obj\Debug\Exam2KeeghanJohnson.pdb

@@ -1,0 +1,22 @@
+C:\Users\kaj168\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\kaj168\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe
+C:\Users\kaj168\source\repos\Exam2\Exam2\bin\Debug\Exam2.pdb
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.frmNewGame.resources
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.exe
+C:\Users\kaj168\source\repos\Exam2\Exam2\obj\Debug\Exam2.pdb
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\bin\Debug\Exam2.exe
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\bin\Debug\Exam2.pdb
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.csproj.AssemblyReference.cache
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.frmNewGame.resources
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.exe
+C:\Users\keegh\OneDrive\Desktop\Visual Program Class\Homework (Not Finished)\Exam2-1\Exam2\Exam2\obj\Debug\Exam2.pdb
