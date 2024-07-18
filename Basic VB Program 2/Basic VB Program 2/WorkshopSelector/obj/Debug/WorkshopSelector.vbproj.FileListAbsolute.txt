@@ -1,0 +1,12 @@
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe.config
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.pdb
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.xml
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.vbprojAssemblyReference.cache
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Form1.resources
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Resources.resources
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.vbproj.GenerateResource.cache
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.vbproj.CoreCompileInputs.cache
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.exe
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.xml
+C:\Users\keegh\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.pdb
