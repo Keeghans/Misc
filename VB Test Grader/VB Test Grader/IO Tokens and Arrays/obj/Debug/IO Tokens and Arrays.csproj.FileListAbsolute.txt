@@ -1,0 +1,48 @@
+E:\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe.config
+E:\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe
+E:\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.pdb
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csprojAssemblyReference.cache
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Form1.resources
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Properties.Resources.resources
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.GenerateResource.cache
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.exe
+E:\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.pdb
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe.config
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.pdb
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csprojAssemblyReference.cache
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Form1.resources
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Properties.Resources.resources
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.GenerateResource.cache
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.CoreCompileInputs.cache
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.exe
+G:\FALL 2020\CIS2324\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.pdb
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe.config
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.pdb
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csprojAssemblyReference.cache
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Form1.resources
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Properties.Resources.resources
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.GenerateResource.cache
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.CoreCompileInputs.cache
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.exe
+G:\FALL 2020\CIS2324\Chapter 8 Charater Prosessing\Ch 8 Examples\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.pdb
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe.config
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.pdb
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csprojAssemblyReference.cache
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Form1.resources
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Properties.Resources.resources
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.GenerateResource.cache
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.CoreCompileInputs.cache
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.exe
+F:\SPRING 2021 FOLDERS\CIS2324 SPRING 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.pdb
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe.config
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.exe
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\bin\Debug\IO Tokens and Arrays.pdb
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Form1.resources
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO_Tokens_and_Arrays.Properties.Resources.resources
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.GenerateResource.cache
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.csproj.CoreCompileInputs.cache
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.exe
+C:\Users\keegh\OneDrive\Desktop\MT 29 and 30 March 2021\MT 29 and 30 March 2021\Examples Ch 7 Ch 8\IO Tokens and Arrays finished\IO Tokens and Arrays\IO Tokens and Arrays\obj\Debug\IO Tokens and Arrays.pdb

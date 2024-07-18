@@ -1,0 +1,15 @@
+Franklin,Maryann,D
+Fagin,Rick,D
+Bridge,Sean,C
+Thomas,Judd,A
+Jones,Phil,B
+Holsopp,Jessica,B
+Ziatbow,Lindsay,A
+Dwyer,Richard,B
+Asbell,Adam,D
+Jackson,Toni,D
+Smith,Julie,C
+Tomsetti,Eleanor,C
+Opolak,Jeff,A
+Sweitzer,Joel,B
+Look,Barry,B
