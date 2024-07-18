@@ -1,0 +1,10 @@
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.csprojAssemblyReference.cache
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.Form1.resources
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.Properties.Resources.resources
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.csproj.GenerateResource.cache
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.csproj.CoreCompileInputs.cache
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\bin\Debug\Exam1_Johnson.exe.config
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\bin\Debug\Exam1_Johnson.exe
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\bin\Debug\Exam1_Johnson.pdb
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.exe
+C:\Users\keegh\OneDrive\Desktop\Exam1_Johnson\Exam1_Johnson\Exam1_Johnson\obj\Debug\Exam1_Johnson.pdb
