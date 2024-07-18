@@ -1,2 +1,2 @@
 # Misc
-A collection of visual basic programs that ive created.
+Collection of various Visual basic programs ive created.
